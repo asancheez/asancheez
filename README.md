@@ -49,7 +49,7 @@ I specialize in:
 
 <div align="center">
 
-![AntonioSanch3z's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSanch3z&layout=compact&theme=radical)
+![asancheez's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asancheez&layout=compact&theme=radical)
 
 </div>
 
